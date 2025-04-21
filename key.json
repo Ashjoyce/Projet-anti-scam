@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "estiam-457007",
+  "private_key_id": "5b518fa495b0428625a4bc57509492bbe1f9a22f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDVh9+/jpJcfHHZ\ntKt41MCAGy7CPLXJZvf5kO8zPOaeQrXPeCLCqnAXmGoHlqaxL8gZsZlw17emkMOr\nqbr2Q0hwLkbTu4NvW4XaiUyaLOPDpaQBYve6xYO9b2ucDkHwoKnYHOhUSgFRD92m\nsuwo7E/0JSAAvoFVJWOe1VWI6fhl4HQ3cf26c94NaWiJpwMfLATM7S6u3oV2gSs7\nq2xKoMFIORyTLLwGUkDG3aPl/EADwT9AEZCiJIEvg98/2PCio7rfDMFALCt/Jjmu\n5G4viSKRy6mh/sLwFyUCiXKnn7n04r8VEDp/NOU/ZM3zpCAE6cutKTPZKe0WVXup\nDxI4yYL3AgMBAAECggEAC0bgB3vnxkmhZTfehgTNkjADuEKNIsqBoxgtgcogFdCV\n5uCRDJdqtw9+EThUElYT98No3cxB4mKRauHz9UIYmimsS022XPp7TbWXKl2sVuGx\nd4wUY2el+ip47bNuqRIbFiykpzrttqwjVRGGJla6L3C8fKP5X/4XzkSCMWpfcdkG\nUeFMMRLuj6RY3Cf661dv+0lru32TAZAFuDnnBorrGtRFVkhY+xLWNaxKWk40Q8wJ\nqpFPVlvZQ4dYWIMH3eVkL8QiN0vihydn026TnHAxV4725d2n7GEVGSNRGSRE5yY3\nPkS3fUlu6RyGfZ++QNdfoCS1TeW3th0x9P80zwJwyQKBgQD3AJEl9e/Scd5QVnoR\ngvrTrOX05osxvQFFNJ9CY1Q9W37MokLacg9PHcu6NFCS7miAfElhqLy8qMWdvTok\nQQm8c8DPt4VlvZ9vZJrRs2dH2WJFJp3iQn7G1rvIkB35FdoWMPhhbFb5spmFOoRj\nPDJDDyk+aLaMBntmNPuMuLdViQKBgQDdTyrF2v3zpRdzQgRxQdb9beIuwsrcrOLw\nW1nh1/KqqBj3uf7rZIm8r5+NxU3YraAd3G+tPBQPVg0p382VL8goGBeOMllfsFtW\nWO6youO7keeyv9gBoHsUVJYmrIxwIxwZJ/dhZe9puxftJqJJhpFv0MRROrTHPfu7\nitDXeXR0fwKBgDjR5JH69WRP1XhdrE8C9nhjObMQpcyXUgd9h3VaLDLBLXYdjYt6\n2ZK1o/v9tNtYBKop7SeODXzIxkz3DrzwSTEU37Ho4cL50Adr+UFsJ8Ibe8O0knVO\nHqPXGfOVU4/NOxIHydt/dLKUJ0TCpVm+q0FJ5473v6aOhyyH26YPh/0hAoGBANid\ni50724PmnMxo2tZMfnVyX4gri8pxwnNGxvRinZhijoWzXQvkTVkNgZuPesHSOD3i\nLMEgY/Ya4SmScLRMn5p28l9xcr9RbCVZSNI607Mdfe8dDf2RqcbdgFZ8X73G79LD\npsSDtNIFmca7IO/csnACpJVpY9b9GW+Y0Q+HRvBbAoGBAMYmmuUf2T+IWjMoB29f\njw9v5eLo7lCULVnYKOHl0VRnAMMae6D8tMHJFwztSMpunz0Crbm9nMquPMq1lIKd\nTyd5greVoS5GB2uON81FzSTu6gOg890Z7Zb3QRNW8yJdjWJvZs1+8rgcB8CggQPN\nrZG042ETFOQxhSvr7Y1G/3lM\n-----END PRIVATE KEY-----\n",
+  "client_email": "tts-estiam@estiam-457007.iam.gserviceaccount.com",
+  "client_id": "103663528451078713579",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tts-estiam%40estiam-457007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

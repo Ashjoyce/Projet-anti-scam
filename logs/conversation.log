@@ -1,0 +1,153 @@
+2025-04-18 18:47:38,297 - USER: ARNAQUEUR: bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour bonjour
+2025-04-18 18:47:38,706 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-18 19:00:00,492 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-18 19:00:00,493 - USER: [33mPress CTRL+C to quit[0m
+2025-04-18 19:00:17,454 - USER: 172.20.10.5 - - [18/Apr/2025 19:00:17] "GET / HTTP/1.1" 200 -
+2025-04-18 19:00:18,684 - USER: 172.20.10.5 - - [18/Apr/2025 19:00:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-18 19:00:24,676 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-18 19:00:25,129 - USER: 172.20.10.5 - - [18/Apr/2025 19:00:25] "POST /send_message HTTP/1.1" 200 -
+2025-04-18 19:00:35,226 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-18 19:00:35,584 - USER: 172.20.10.5 - - [18/Apr/2025 19:00:35] "POST /send_message HTTP/1.1" 200 -
+2025-04-18 22:09:44,079 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-18 22:09:44,080 - USER: [33mPress CTRL+C to quit[0m
+2025-04-18 22:09:52,084 - USER: 127.0.0.1 - - [18/Apr/2025 22:09:52] "GET / HTTP/1.1" 200 -
+2025-04-18 22:09:53,185 - USER: 127.0.0.1 - - [18/Apr/2025 22:09:53] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-18 22:10:26,468 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-18 22:10:27,225 - USER: 127.0.0.1 - - [18/Apr/2025 22:10:27] "POST /send_message HTTP/1.1" 200 -
+2025-04-18 22:10:43,254 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-18 22:10:43,722 - USER: 127.0.0.1 - - [18/Apr/2025 22:10:43] "POST /send_message HTTP/1.1" 200 -
+2025-04-18 22:17:37,208 - USER: ARNAQUEUR: là c'est un me silence est détecté donc
+2025-04-18 22:17:37,715 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 19:41:04,701 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-19 19:41:04,701 - USER: [33mPress CTRL+C to quit[0m
+2025-04-19 19:41:04,703 - USER:  * Restarting with watchdog (windowsapi)
+2025-04-19 19:41:07,722 - USER:  * Debugger is active!
+2025-04-19 19:41:07,730 - USER:  * Debugger PIN: 360-869-257
+2025-04-19 19:41:19,700 - USER: 172.20.10.5 - - [19/Apr/2025 19:41:19] "GET / HTTP/1.1" 200 -
+2025-04-19 19:41:27,433 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 19:41:27,989 - USER: 172.20.10.5 - - [19/Apr/2025 19:41:27] "POST /send_message HTTP/1.1" 200 -
+2025-04-19 19:41:28,380 - USER: 172.20.10.5 - - [19/Apr/2025 19:41:28] "[35m[1mGET /audio?1745084487994 HTTP/1.1[0m" 206 -
+2025-04-19 19:42:46,023 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-19 19:42:46,023 - USER: [33mPress CTRL+C to quit[0m
+2025-04-19 19:42:46,024 - USER:  * Restarting with watchdog (windowsapi)
+2025-04-19 19:42:49,063 - USER:  * Debugger is active!
+2025-04-19 19:42:49,071 - USER:  * Debugger PIN: 360-869-257
+2025-04-19 19:42:52,889 - USER: 172.20.10.5 - - [19/Apr/2025 19:42:52] "GET / HTTP/1.1" 200 -
+2025-04-19 19:43:00,207 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 19:43:00,760 - USER: 172.20.10.5 - - [19/Apr/2025 19:43:00] "POST /send_message HTTP/1.1" 200 -
+2025-04-19 19:43:01,139 - USER: 172.20.10.5 - - [19/Apr/2025 19:43:01] "[35m[1mGET /audio?1745084580768 HTTP/1.1[0m" 206 -
+2025-04-19 19:45:46,238 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-19 19:45:46,238 - USER: [33mPress CTRL+C to quit[0m
+2025-04-19 19:45:46,238 - USER:  * Restarting with watchdog (windowsapi)
+2025-04-19 19:45:49,127 - USER:  * Debugger is active!
+2025-04-19 19:45:49,137 - USER:  * Debugger PIN: 360-869-257
+2025-04-19 19:46:16,787 - USER: 172.20.10.5 - - [19/Apr/2025 19:46:16] "GET / HTTP/1.1" 200 -
+2025-04-19 19:55:30,887 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-19 19:55:30,888 - USER: [33mPress CTRL+C to quit[0m
+2025-04-19 19:55:30,889 - USER:  * Restarting with watchdog (windowsapi)
+2025-04-19 19:55:33,930 - USER:  * Debugger is active!
+2025-04-19 19:55:33,937 - USER:  * Debugger PIN: 360-869-257
+2025-04-19 19:55:40,017 - USER: 127.0.0.1 - - [19/Apr/2025 19:55:40] "GET / HTTP/1.1" 200 -
+2025-04-19 19:55:48,838 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 19:55:49,500 - USER: 127.0.0.1 - - [19/Apr/2025 19:55:49] "POST /send_message HTTP/1.1" 200 -
+2025-04-19 19:55:49,917 - USER: 127.0.0.1 - - [19/Apr/2025 19:55:49] "[35m[1mGET /audio?1745085349507 HTTP/1.1[0m" 206 -
+2025-04-19 19:55:55,798 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 19:55:56,258 - USER: 127.0.0.1 - - [19/Apr/2025 19:55:56] "POST /send_message HTTP/1.1" 200 -
+2025-04-19 19:55:56,305 - USER: 127.0.0.1 - - [19/Apr/2025 19:55:56] "[35m[1mGET /audio?1745085356263 HTTP/1.1[0m" 206 -
+2025-04-19 19:59:37,645 - USER: ARNAQUEUR: bonjour bonjour bonjour bonjour bonjour bonjour
+2025-04-19 19:59:38,362 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:03:59,489 - USER: ARNAQUEUR: bonjour bonjour
+2025-04-19 20:04:00,063 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:05:51,833 - USER: ARNAQUEUR: je veux
+2025-04-19 20:06:24,592 - USER: ARNAQUEUR: bonjour bonjour bonjour bonjour
+2025-04-19 20:08:06,074 - USER: ARNAQUEUR: bonjour je suis
+2025-04-19 20:10:04,553 - USER: ARNAQUEUR: je pense que c'est bonjour comment allez-vous
+2025-04-19 20:13:34,893 - USER: ARNAQUEUR: voilà et puis vous venez me voir personne sérieux
+2025-04-19 20:14:26,397 - USER: ARNAQUEUR: il voulait partir parce que bonjour qu'est-ce que l'effet
+2025-04-19 20:15:11,249 - USER: ARNAQUEUR: bonjour bonjour
+2025-04-19 20:17:38,405 - USER: ARNAQUEUR: bonjour
+2025-04-19 20:18:27,555 - USER: ARNAQUEUR: est-ce que tu peux perdre
+2025-04-19 20:18:28,069 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:18:37,079 - USER: ARNAQUEUR: les gens ouvrent les rapports du monde
+2025-04-19 20:18:37,285 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:18:45,169 - USER: ARNAQUEUR: bonjour
+2025-04-19 20:18:45,579 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:20:44,979 - USER: ARNAQUEUR: bonjour
+2025-04-19 20:20:45,594 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:37:47,675 - USER: ARNAQUEUR: bonjour
+2025-04-19 20:43:00,246 - USER: ARNAQUEUR: bonjour bonjour bonjour bonjour bonjour bonjour bonjour
+2025-04-19 20:46:15,172 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.5:5000
+2025-04-19 20:46:15,173 - USER: [33mPress CTRL+C to quit[0m
+2025-04-19 20:46:15,173 - USER:  * Restarting with stat
+2025-04-19 20:46:18,417 - USER:  * Debugger is active!
+2025-04-19 20:46:18,423 - USER:  * Debugger PIN: 137-047-591
+2025-04-19 20:46:28,888 - USER: 172.20.10.5 - - [19/Apr/2025 20:46:28] "GET / HTTP/1.1" 200 -
+2025-04-19 20:46:36,074 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-19 20:46:36,902 - USER: 172.20.10.5 - - [19/Apr/2025 20:46:36] "POST /send_message HTTP/1.1" 200 -
+2025-04-19 20:46:37,058 - USER: 172.20.10.5 - - [19/Apr/2025 20:46:37] "[35m[1mGET /audio?1745088396911 HTTP/1.1[0m" 206 -
+2025-04-20 23:54:25,308 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.151.249:5000
+2025-04-20 23:54:25,308 - USER: [33mPress CTRL+C to quit[0m
+2025-04-20 23:54:25,308 - USER:  * Restarting with stat
+2025-04-20 23:54:27,282 - USER:  * Debugger is active!
+2025-04-20 23:54:27,290 - USER:  * Debugger PIN: 101-640-196
+2025-04-20 23:55:10,192 - USER: 127.0.0.1 - - [20/Apr/2025 23:55:10] "GET / HTTP/1.1" 200 -
+2025-04-20 23:55:18,200 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-20 23:55:18,594 - USER: 127.0.0.1 - - [20/Apr/2025 23:55:18] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2025-04-21 00:06:07,728 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.151.249:5000
+2025-04-21 00:06:07,728 - USER: [33mPress CTRL+C to quit[0m
+2025-04-21 00:06:07,728 - USER:  * Restarting with stat
+2025-04-21 00:06:10,082 - USER:  * Debugger is active!
+2025-04-21 00:06:10,091 - USER:  * Debugger PIN: 101-640-196
+2025-04-21 00:06:46,215 - USER: 127.0.0.1 - - [21/Apr/2025 00:06:46] "GET / HTTP/1.1" 200 -
+2025-04-21 00:06:51,891 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-21 00:06:52,214 - USER: 127.0.0.1 - - [21/Apr/2025 00:06:52] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2025-04-21 00:38:18,895 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.151.249:5000
+2025-04-21 00:38:18,895 - USER: [33mPress CTRL+C to quit[0m
+2025-04-21 00:38:18,895 - USER:  * Restarting with stat
+2025-04-21 00:38:20,762 - USER:  * Debugger is active!
+2025-04-21 00:38:20,770 - USER:  * Debugger PIN: 127-246-190
+2025-04-21 00:38:37,872 - USER: 127.0.0.1 - - [21/Apr/2025 00:38:37] "GET / HTTP/1.1" 200 -
+2025-04-21 00:38:48,056 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-21 00:38:48,405 - USER: 127.0.0.1 - - [21/Apr/2025 00:38:48] "[35m[1mPOST /send_message HTTP/1.1[0m" 500 -
+2025-04-21 01:12:45,072 - USER: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.10.151.249:5000
+2025-04-21 01:12:45,072 - USER: [33mPress CTRL+C to quit[0m
+2025-04-21 01:12:45,072 - USER:  * Restarting with stat
+2025-04-21 01:12:48,131 - USER:  * Debugger is active!
+2025-04-21 01:12:48,141 - USER:  * Debugger PIN: 127-246-190
+2025-04-21 01:12:58,580 - USER: 127.0.0.1 - - [21/Apr/2025 01:12:58] "GET / HTTP/1.1" 200 -
+2025-04-21 01:13:05,514 - USER: MICHEL: Euh... je ne suis pas sûr de comprendre...
+2025-04-21 01:13:05,999 - USER: 127.0.0.1 - - [21/Apr/2025 01:13:05] "POST /send_message HTTP/1.1" 200 -
+2025-04-21 01:13:06,216 - USER: 127.0.0.1 - - [21/Apr/2025 01:13:06] "[35m[1mGET /audio?1745190786008 HTTP/1.1[0m" 206 -
