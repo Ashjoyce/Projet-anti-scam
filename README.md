@@ -28,18 +28,18 @@ Michel Casper est une intelligence artificielle conçue pour **faire perdre du t
 ## 🔧 Installation
 
 1. **Clone le dépôt** :
-   ```bash
+   " bash
 git clone https://github.com/Ashjoyce/Projet-anti-scam.git
-cd Projet-anti-scam
+cd Projet-anti-scam "
 
-2. **Crée un environnement virtuel** :
+3. **Crée un environnement virtuel** :
    python -m venv .venv
 source .venv/bin/activate  # (ou .venv\Scripts\activate sous Windows)
 
-3. **Installe les dépendances** :
+4. **Installe les dépendances** :
    pip install -r requirements.txt
    
-4. **Ajoute ton fichier key.json dans le dossier (non versionné par Git)** :
+5. **Ajoute ton fichier key.json dans le dossier (non versionné par Git)** :
    ⚠️ Ne jamais push ce fichier ! Il contient tes clés Google Cloud.
 
 ## ▶️ Lancer l'application
